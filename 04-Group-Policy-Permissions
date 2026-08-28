@@ -1,1 +1,55 @@
+# Group Policy, Permissions & Access Management
 
+After users and OUs in Active Directory, I started working with Group Policy to manage settings for my domain.
+
+## Password and Account Lockout Policy
+
+I looked through the password and account lockout policies for my domain. These settings control things like how long a password is good for, password requirements, and how many failed login attempts a user gets before being locked out.
+
+I changed the maximum password age to 90 days and set the account lockout threshold for failed login attempts.
+
+[SCREENSHOT]
+
+My password and account lockout settings in Group Policy.
+
+## Applying and Checking Group Policy
+
+I used 'gpupdate /force' to apply Group Policy changes and `gpresult /r` to check which policies were being applied to the user.
+
+I also tested Group Policy by blocking Task Manager and password changes for Patty, applied it to the HR OU and made sure the restrictions worked on her computer.
+
+[SCREENSHOT]
+
+Checking Group Policy and the restrictions applied to Patty.
+
+## Shared Folders
+
+I created HR and Personal shared folders on my server to practice giving users access to network folders.
+
+[SCREENSHOT]
+
+My HR and Personal shared folders on the server.
+
+## Security Groups and Folder Permissions
+
+I created HR and Personal security groups and added Patty to both groups. I then set the folder permissions so only the correct security group could access each shared folder.
+
+[SCREENSHOT]
+
+My security groups and shared folder permissions.
+
+## Mapping a Network Drive
+
+I logged in as Patty and mapped the HR shared folder as the 'Z:' drive. I set it to reconnect so the drive would still be there when she signs back in.
+
+[SCREENSHOT]
+
+My HR shared folder mapped as the Z: drive.
+
+## Personal User Drive
+
+I set up a personal drive for Patty through her Active Directory profile. When she signed in, her personal folder was created and mapped as the 'P:' drive.
+
+[SCREENSHOT]
+
+Patty's personal P: drive mapped on her computer.
