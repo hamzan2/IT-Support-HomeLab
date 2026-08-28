@@ -36,19 +36,11 @@ My Help Desk account created in Active Directory.
 
 ## Checking User Accounts
 
-I used `net user username /domain` to check domain user account information, including password information, group memberships, and account status.
+I used `net user patty /domain` and Active Directory to check user account information like password details, group memberships, account status, and last logon.
 
 [SCREENSHOT]
 
-Checking a domain user account from the command line.
-
-## Joining a Computer to the Domain
-
-I configured my Windows 10 lab machine so it could communicate with `Server2019` and joined it to my `hamza12.com` domain.
-
-[SCREENSHOT]
-
-My Windows 10 Lab joined to the `hamza12.com` domain.
+Checking a user account.
 
 ## RSAT Tools
 
@@ -65,3 +57,11 @@ I practiced signing into Windows with both local and domain accounts and learned
 [SCREENSHOT]
 
 Signing into my Windows 10 Lab with a domain account.
+
+## Organizing Users
+
+I created HR and IT OUs in Active Directory to organize my users. I added a user to HR and moved my Help Desk account to IT.
+
+[SCREENSHOT]
+
+My HR and IT OUs with the users inside.
