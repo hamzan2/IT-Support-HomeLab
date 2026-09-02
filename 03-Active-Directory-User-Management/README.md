@@ -54,7 +54,7 @@ RSAT tools installed on my Windows 10 Lab machine for remote Active Directory ad
 
 I practiced signing into Windows with both local and domain accounts and learned how to tell which one I was using from the sign-in screen.
 
-[SCREENSHOT]
+<img width="1492" height="1142" alt="image" src="https://github.com/user-attachments/assets/f51299ba-b94b-461a-a18a-d12788c8dfe4" />
 
 Signing into my Windows 10 Lab with a domain account.
 
@@ -62,6 +62,6 @@ Signing into my Windows 10 Lab with a domain account.
 
 I created HR and IT OUs in Active Directory to organize my users. I added a user to HR and moved my Help Desk account to IT.
 
-[SCREENSHOT]
+<img width="1786" height="858" alt="image" src="https://github.com/user-attachments/assets/dd2a05f7-79cc-4505-84db-bad9ca91ddb3" />
 
 My HR and IT OUs with the users inside.
