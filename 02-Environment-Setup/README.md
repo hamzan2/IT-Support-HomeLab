@@ -17,24 +17,23 @@ I created three virtual machines for the lab:
 
 <img width="658" height="354" alt="image" src="https://github.com/user-attachments/assets/f517fe90-44e7-409f-82ff-251559f2d59d" />
 
-
 My three lab machines set up in VirtualBox.
 
 ## Windows Server 2019
 
-I created my Windows Server 2019 VM in VirtualBox and gave it 8 GB of RAM. I then created the virtual hard drive, attached the Windows Server 2019 ISO, and installed the Desktop Experience version.
+I created my Windows Server 2019 VM in VirtualBox and gave it 6 GB of RAM. I then created the virtual hard drive, attached the Windows Server 2019 ISO, and installed the Desktop Experience version.
 
 ### Server Setup
 
-[SCREENSHOT]
+<img width="1094" height="516" alt="image" src="https://github.com/user-attachments/assets/d0246181-2770-4067-9805-3610192e4f1e" />
 
-My Windows Server 2019 VM set up with 8 GB of RAM.
+My Windows Server 2019 VM set up with 6 GB of RAM.
 
 After the installation, I changed the computer name to `Server2019` so the server would be easy to recognize while working with it later in the lab.
 
 ### Server Name
 
-[SCREENSHOT]
+<img width="558" height="136" alt="image" src="https://github.com/user-attachments/assets/e454cfe2-eba0-4d6a-92c4-85144edd2426" />
 
 My server renamed to `Server2019`.
 
@@ -44,6 +43,6 @@ I set up two Windows 10 VMs named `Windows 10 Lab` and `Help Desk`. One is used 
 
 ### Windows 10 Setup
 
-[SCREENSHOT]
+<img width="1506" height="1250" alt="image" src="https://github.com/user-attachments/assets/2635905e-d833-4faa-8369-bec9402bcbfc" />
 
 My Windows 10 VM set up in VirtualBox.
