@@ -15,7 +15,8 @@ I created three virtual machines for the lab:
 
 ### VirtualBox Setup
 
-[SCREENSHOT]
+<img width="658" height="354" alt="image" src="https://github.com/user-attachments/assets/f517fe90-44e7-409f-82ff-251559f2d59d" />
+
 
 My three lab machines set up in VirtualBox.
 
