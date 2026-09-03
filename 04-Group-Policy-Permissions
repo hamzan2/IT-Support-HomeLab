@@ -8,7 +8,7 @@ I looked through the password and account lockout policies for my domain. These 
 
 I changed the maximum password age to 90 days and set the account lockout threshold for failed login attempts.
 
-[SCREENSHOT]
+
 
 My password and account lockout settings in Group Policy.
 
