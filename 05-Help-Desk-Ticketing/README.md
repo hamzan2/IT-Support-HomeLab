@@ -6,7 +6,7 @@ I set up Spiceworks Cloud Help Desk and used the ticketing system to create, man
 
 I set up my help desk and added users and technicians so I could create and manage support requests.
 
-[SCREENSHOT]
+<img width="599" height="89" alt="image" src="https://github.com/user-attachments/assets/8ce69815-e763-4c8b-ac4d-236b7b74cc19" />
 
 My Spiceworks help desk and ticket queue.
 
@@ -14,7 +14,7 @@ My Spiceworks help desk and ticket queue.
 
 I created tickets for different IT issues that could come up while supporting users. I included information about the problem so the issue could be tracked from when it was reported.
 
-[SCREENSHOT]
+<img width="462" height="138" alt="image" src="https://github.com/user-attachments/assets/71fe280c-46e0-4989-8199-19f52cc03b10" />
 
 Support tickets created in Spiceworks.
 
@@ -22,7 +22,8 @@ Support tickets created in Spiceworks.
 
 I assigned tickets to a technician and worked with the priority and status depending on the issue. I also reassigned a ticket when the problem needed to be handled at a different support level.
 
-[SCREENSHOT]
+
+
 
 A support ticket showing the assignee, priority and status.
 
