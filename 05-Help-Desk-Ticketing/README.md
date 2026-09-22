@@ -39,7 +39,7 @@ Notes and updates documented on a support ticket.
 
 After an issue was finished, I added the resolution and closed the ticket. This kept a record of the problem and what was done to fix it.
 
-[SCREENSHOT]
+<img width="790" height="228" alt="image" src="https://github.com/user-attachments/assets/082b12bf-c3d3-41b0-a564-280ed239604d" />
 
 A resolved support ticket with the final notes.
 
@@ -47,6 +47,6 @@ A resolved support ticket with the final notes.
 
 I reopened a closed ticket to work through what would happen if a user reported that the same issue came back.
 
-[SCREENSHOT]
+<img width="790" height="228" alt="image" src="https://github.com/user-attachments/assets/8849f3c1-94b7-45d3-97ab-4ebf3a89834b" />
 
 A previously closed ticket reopened for additional work.
