@@ -22,7 +22,8 @@ Support tickets created in Spiceworks.
 
 I assigned tickets to a technician and worked with the priority and status depending on the issue. I also reassigned a ticket when the problem needed to be handled at a different support level.
 
-<img width="2055" height="708" alt="image" src="https://github.com/user-attachments/assets/3cce205a-117f-4297-90d8-fe0bb68b6cb5" />
+<img width="462" height="138" alt="image" src="https://github.com/user-attachments/assets/531cf9fc-bd70-4020-8b3f-0e12bb43859c" />
+
 
 A support ticket showing the assignee, priority and status.
 
