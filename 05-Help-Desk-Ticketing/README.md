@@ -31,7 +31,7 @@ A support ticket showing the assignee, priority and status.
 
 While working on tickets, I added notes and responses to keep a record of what was checked and what had already been done.
 
-[SCREENSHOT]
+<img width="772" height="228" alt="image" src="https://github.com/user-attachments/assets/d5d33160-7fc8-46f7-954c-aadd7706a49f" />
 
 Notes and updates documented on a support ticket.
 
