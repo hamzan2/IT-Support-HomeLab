@@ -26,11 +26,9 @@ The HR drive working again after fixing the access problem.
 
 I used PDQ to check a Windows 10 computer and work through a software issue remotely. I checked what was already installed, made the needed change and verified the software on the computer.
 
-[SCREENSHOT]
 
 Checking the Windows 10 computer and its software in PDQ.
 
-[SCREENSHOT]
 
 The software working on the computer after the change.
 
