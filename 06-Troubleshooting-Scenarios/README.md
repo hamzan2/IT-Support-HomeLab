@@ -50,11 +50,11 @@ The printer working after fixing the problem.
 
 I worked through an application that was not opening correctly on a Windows 10 computer. I checked the problem on the user's computer, repaired the application and tested it again afterward.
 
-[SCREENSHOT]
+<img width="1508" height="1148" alt="image" src="https://github.com/user-attachments/assets/72c5cf38-3624-4b2f-b910-da09f5435329" />
 
 Working through the application problem on the Windows 10 computer.
 
-[SCREENSHOT]
+<img width="1508" height="1150" alt="image" src="https://github.com/user-attachments/assets/500fd05c-e615-4988-9083-cce0a5e193fc" />
 
 The application opening correctly after the repair.
 
@@ -62,10 +62,10 @@ The application opening correctly after the repair.
 
 I worked with remote access to support a Windows 10 computer without having to work directly from that computer. I checked the user's access and permissions and made sure the remote connection worked.
 
-[SCREENSHOT]
+<img width="1520" height="1142" alt="image" src="https://github.com/user-attachments/assets/c66f5086-d2f4-4f9a-9875-63573df10a4c" />
 
 Checking remote access and permissions for the Windows 10 computer.
 
-[SCREENSHOT]
+<img width="1524" height="1152" alt="image" src="https://github.com/user-attachments/assets/357233b0-f15c-4a5c-8910-d0adb4d14477" />
 
 Connected to the computer after fixing the remote access problem.
