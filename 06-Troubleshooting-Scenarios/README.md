@@ -18,7 +18,7 @@ Patty could sign in but was unable to access the HR shared drive. I checked the 
 
 Checking Patty's access to the HR shared folder.
 
-<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/7f3aa2e9-1d5d-4360-80cd-593905accd6d" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/7f3aa2e9-1d5d-4360-80cd-593905accd6d" />
 
 The HR drive working again after fixing the access problem.
 
