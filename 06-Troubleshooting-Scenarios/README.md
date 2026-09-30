@@ -38,11 +38,11 @@ The software working on the computer after the change.
 
 A user had a print job that was not going through. I checked the printer connection, network access and printer settings to narrow down where the problem was coming from.
 
-<img width="790" height="228" alt="image" src="https://github.com/user-attachments/assets/71707a6a-9e55-4950-b9ea-b5014f942cf0" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/71707a6a-9e55-4950-b9ea-b5014f942cf0" />
 
 Checking the printer connection and network information.
 
-<img width="790" height="228" alt="image" src="https://github.com/user-attachments/assets/9b3bf460-c162-42d6-9667-fdabe97a2f03" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/9b3bf460-c162-42d6-9667-fdabe97a2f03" />
 
 The printer working after fixing the problem.
 
