@@ -6,7 +6,7 @@ I worked through different support issues in my Windows domain lab. I used Spice
 
 Patty was unable to sign in after her account became locked. I checked her account in Active Directory, restored access and made sure she could sign back in.
 
-<img width="708" height="956" alt="Screenshot 2026-09-29 212601" src="https://github.com/user-attachments/assets/db7b5981-44f4-4db2-bdad-cf6b9515f1fa" />
+<img width="790" height="228" alt="Screenshot 2026-09-29 212601" src="https://github.com/user-attachments/assets/db7b5981-44f4-4db2-bdad-cf6b9515f1fa" />
 
 Checking Patty's account in Active Directory and restoring access.
 
@@ -14,11 +14,11 @@ Checking Patty's account in Active Directory and restoring access.
 
 Patty could sign in but was unable to access the HR shared drive. I checked the mapped drive, her security group membership and the folder permissions to find where the access problem was coming from.
 
-<img width="1178" height="882" alt="image" src="https://github.com/user-attachments/assets/f4decaac-9047-4759-867f-b88c24ef875d" />
+<img width="790" height="228" alt="image" src="https://github.com/user-attachments/assets/f4decaac-9047-4759-867f-b88c24ef875d" />
 
 Checking Patty's access to the HR shared folder.
 
-<img width="1160" height="700" alt="image" src="https://github.com/user-attachments/assets/7f3aa2e9-1d5d-4360-80cd-593905accd6d" />
+<img width="790" height="228" alt="image" src="https://github.com/user-attachments/assets/7f3aa2e9-1d5d-4360-80cd-593905accd6d" />
 
 The HR drive working again after fixing the access problem.
 
@@ -38,11 +38,11 @@ The software working on the computer after the change.
 
 A user had a print job that was not going through. I checked the printer connection, network access and printer settings to narrow down where the problem was coming from.
 
-<img width="1766" height="1262" alt="image" src="https://github.com/user-attachments/assets/71707a6a-9e55-4950-b9ea-b5014f942cf0" />
+<img width="790" height="228" alt="image" src="https://github.com/user-attachments/assets/71707a6a-9e55-4950-b9ea-b5014f942cf0" />
 
 Checking the printer connection and network information.
 
-<img width="1458" height="1198" alt="image" src="https://github.com/user-attachments/assets/9b3bf460-c162-42d6-9667-fdabe97a2f03" />
+<img width="790" height="228" alt="image" src="https://github.com/user-attachments/assets/9b3bf460-c162-42d6-9667-fdabe97a2f03" />
 
 The printer working after fixing the problem.
 
