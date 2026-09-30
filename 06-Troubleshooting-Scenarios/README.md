@@ -6,7 +6,7 @@ I worked through different support issues in my Windows domain lab. I used Spice
 
 Patty was unable to sign in after her account became locked. I checked her account in Active Directory, restored access and made sure she could sign back in.
 
-<img width="1508" height="1508" alt="Screenshot 2026-09-29 212601" src="https://github.com/user-attachments/assets/db7b5981-44f4-4db2-bdad-cf6b9515f1fa" />
+<img width="1308" height="1508" alt="Screenshot 2026-09-29 212601" src="https://github.com/user-attachments/assets/db7b5981-44f4-4db2-bdad-cf6b9515f1fa" />
 
 Checking Patty's account in Active Directory and restoring access.
 
