@@ -14,7 +14,7 @@ Checking Patty's account in Active Directory and restoring access.
 
 Patty could sign in but was unable to access the HR shared drive. I checked the mapped drive, her security group membership and the folder permissions to find where the access problem was coming from.
 
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/f4decaac-9047-4759-867f-b88c24ef875d" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/f4decaac-9047-4759-867f-b88c24ef875d" />
 
 Checking Patty's access to the HR shared folder.
 
